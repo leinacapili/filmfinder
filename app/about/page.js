@@ -13,11 +13,11 @@ export default function About() {
           </p>
           <p className="font-mono font-bold text-black px-52 pt-5 text-center">LEINA (V.O.)</p>
           <p className="font-mono text-black px-52 pb-3 justify-center">
-            FilmFinder's UI is inspired by the screenplay - a.k.a., the script - format used in making films!
+            FilmFinder&apos;s UI is inspired by the screenplay - a.k.a., the script - format used in making films!
           </p>
           <p className="font-mono text-black px-5">
-            This project uses DaisyUI's component library for Tailwind CSS - I used their carousel component for the Trending section in the Home page!
-            I also made use of The Movie Database's (TMDB) API. Links to both can be found in the footer if you want to take a peek!
+            This project uses DaisyUI&apos;s component library for Tailwind CSS - I used their carousel component for the Trending section in the Home page!
+            I also made use of The Movie Database&apos;s (TMDB) API. Links to both can be found in the footer if you want to take a peek!
           </p>
           <p className="font-mono font-bold text-black px-52 pt-5 text-center">LEINA (V.O.)</p>
           <p className="font-mono text-black px-52 pb-3 justify-center">
